@@ -25,7 +25,14 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * index.py:
 ![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/498fe7c2-9c76-42d1-abd9-9c689ad3c254)
 ![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/51a5b07d-daa2-49fc-9f14-9cbfecf93fc0)
-
+* lambda]$ cd ..
+* cdk-app]$ cdk bootstrap
+* under CloudFormation -> Stacks -> CDKToolkit -> Resources (all the resource has been deployed)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/2f7934ea-00b4-4c60-882f-902a014b764c)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/0c1426f8-d3c5-4c65-a68f-6f68c27f517c)
+* cdk-app]$ cdk synth (Get a whole CloudFormation template) 
+* cdk-app]$ cdk deploy
+* Upload the Image : CloudFormation -> Stacks -> CdkAppStack -> Resources -> click on S3 Bucket and upload a image 
 
 
 
