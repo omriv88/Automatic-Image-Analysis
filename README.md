@@ -24,6 +24,8 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * copy the index.py into your lib/ directory
 * index.py:
 ![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/498fe7c2-9c76-42d1-abd9-9c689ad3c254)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/51a5b07d-daa2-49fc-9f14-9cbfecf93fc0)
+
 
 
 
