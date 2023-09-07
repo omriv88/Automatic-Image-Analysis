@@ -15,13 +15,16 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * lib]$ touch cdk-app-stack.js
 * copy the cdk-app-stack.js file into your lib/ directory
 * cdk-app-stack.js:
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/f753cdcc-556f-4cde-94f1-4015ecd7ee31)
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/0aa65b94-859f-447a-b462-4896e190a886)
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/f8eecdfb-9c2c-4468-aa41-0d5b936724a6)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/bf5932c9-9a28-4712-b945-6d9475a5c42b)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/9e741298-1d98-4b85-91eb-e9c88c5d1afb)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/81a2b6ea-f65b-4cf9-b8be-6e16c9893d54)
 * lib]$ cd ..
 * cdk-app]$ mkdir lambda && cd lambda
 * lambda]$ touch index.py
 * copy the index.py into your lib/ directory
 * index.py:
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/e275b330-eb86-45fe-a5c4-09443d63f805)
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/56dc8281-6f98-4c07-b891-d2190eb9d024)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/498fe7c2-9c76-42d1-abd9-9c689ad3c254)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/ae9f53f1-85cc-4302-a925-487baafa8688)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/ccbb5f62-9298-44a2-9713-3633ec576637)
+
+
