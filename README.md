@@ -33,6 +33,16 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * cdk-app]$ cdk synth (Get a whole CloudFormation template) 
 * cdk-app]$ cdk deploy
 * Upload the Image : CloudFormation -> Stacks -> CdkAppStack -> Resources -> click on S3 Bucket and upload a image 
-
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/8071bbef-4899-43f8-a657-b078bd32093c)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/e069b0cc-1fcd-4c90-b9a6-f80249836589)
+* image analysis resultes: -> CloudFormation -> Stacks -> CdkAppStack -> Resources -> DynamoDB -> Click  "Explore table items" 
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/cda277bd-8666-4ee6-bd6f-a409cae235bc)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/793421b5-3ccf-4eb8-badf-69e6ea52f924)
+* Upload more two images -> Goto S3 Bucket -> Upload 
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/916deced-a51c-4ebf-b62f-27fa21a131f2)
+* the tresultes in DynamoDB:
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/73de41eb-dd1f-419e-8218-8c697a4336fe)
+* For CleanUp
+empty the s3 bucket and destroy the stack
 
 
