@@ -1,4 +1,4 @@
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/8ed7c64a-d5ba-4681-bc35-78b0d1320a30)# Automatic-Image-Analysis2
+# Automatic-Image-Analysis2
 Create Automation process for Image rekognition analysis using Amazon Rekognition machine learning. Once a client upload an image to S3 Bucket this will trigger a Lambda function that will perform image analysis in AWS Rekognition and save the results into Amazon DynamoDB database
 
 ![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/cb6b3487-b9ad-403a-9337-289c0ffca45c)
@@ -24,7 +24,6 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * copy the index.py into your lib/ directory
 * index.py:
 ![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/498fe7c2-9c76-42d1-abd9-9c689ad3c254)
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/ae9f53f1-85cc-4302-a925-487baafa8688)
-![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/ccbb5f62-9298-44a2-9713-3633ec576637)
+
 
 
