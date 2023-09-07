@@ -15,3 +15,6 @@ Create Automation process for Image rekognition analysis using Amazon Rekognitio
 * lib]$ touch cdk-app-stack.js
 * copy the cdk-app-stack.js file into your lib/ directory
 * cdk-app-stack.js:
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/f753cdcc-556f-4cde-94f1-4015ecd7ee31)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/0aa65b94-859f-447a-b462-4896e190a886)
+![image](https://github.com/omriv88/Automatic-Image-Analysis2/assets/113102456/f8eecdfb-9c2c-4468-aa41-0d5b936724a6)
